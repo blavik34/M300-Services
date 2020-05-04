@@ -31,7 +31,7 @@ WICHTIG: Ein Backup vom Vagrant File machen, weil bei Änderungen Fehler vorkomm
  ##Docker
  
  #Vorwissen
- Docker ist eine Software welche erlaubt Boxen zu erstellen um OS laufen zu lassen.
+ Docker ist eine Containervirtualisierungssoftware welche erlaubt Boxen zu erstellen um OS getrennt voneinander laufen zu lassen.
  
  #Erlerntes Wissen
  
