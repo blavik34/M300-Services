@@ -27,3 +27,16 @@ Hier wird alles definiert, was beim aufstarten (vagrant up) installiert und eing
 Am besten ist es, wenn man sich Schritt für Schritt durcharbeitet und die einzelnen Konfigurationen testet.
 
 WICHTIG: Ein Backup vom Vagrant File machen, weil bei Änderungen Fehler vorkommen können.
+
+ ##Docker
+ 
+ #Vorwissen
+ Docker ist eine Software welche erlaubt Boxen zu erstellen um OS laufen zu lassen.
+ 
+ #Erlerntes Wissen
+ 
+  Die Docker-Technologie verwendet den Linux Kernel und seine Funktionen wie Cgroups und namespaces, um Prozesse zu isolieren, dadurch     ebendiese abgesondert voneinander ausgeführt werden können. Diese Unabhängigkeit ist der Vorsatz der Container – die Fähigkeit, eine     Anzahl von Prozesse und Applikationen alleinig voneinander betreiben zu können. So wird Ihre Infrastruktur besser genutzt und           zeitgleich die Gewissheit bewahrt, die sich aus der Arbeit mit einzelnen Systemen ergibt.
+
+  Containertools, inbegriffen Docker, wirken mit einem Image-basierten Bereitstellungsmodell. Das macht es bequemer, eine Anwendung oder   ein Paket von Services mit all deren Abhängigkeiten in vielerlei Umgebungen zusammen zu nutzen. Docker von selbst weiterhin die         Anlieferung der Application (oder Kombinationen von Prozessen, die eine Applikation darstellen) im Zuge jener Container-Umgebung.
+
+  Diese Tools errichten auf Linux-Containern auf – was Docker benutzerfreundlich und einzigartig macht – und geben den Benutzern auf       diese Weise zu keinem Zeitpunkt dagewesenen Zugriff auf Applikationen. Sie realisieren eine klar schnellere Anlieferung und             Überprüfung von Varianten ebenso deren Verbreitung.
