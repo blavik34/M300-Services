@@ -28,12 +28,12 @@ Am besten ist es, wenn man sich Schritt für Schritt durcharbeitet und die einze
 
 WICHTIG: Ein Backup vom Vagrant File machen, weil bei Änderungen Fehler vorkommen können.
 
- ##Docker
+ # Docker
  
- #Vorwissen
+ ## Vorwissen
  Docker ist eine Containervirtualisierungssoftware welche erlaubt Boxen zu erstellen um OS getrennt voneinander laufen zu lassen.
  
- #Erlerntes Wissen
+ ## Erlerntes Wissen
  
   Die Docker-Technologie verwendet den Linux Kernel und seine Funktionen wie Cgroups und namespaces, um Prozesse zu isolieren, dadurch     ebendiese abgesondert voneinander ausgeführt werden können. Diese Unabhängigkeit ist der Vorsatz der Container – die Fähigkeit, eine     Anzahl von Prozesse und Applikationen alleinig voneinander betreiben zu können. So wird Ihre Infrastruktur besser genutzt und           zeitgleich die Gewissheit bewahrt, die sich aus der Arbeit mit einzelnen Systemen ergibt.
 
